@@ -50,6 +50,7 @@
      <Compile Include="Assets\NickNamer.js" />
      <Compile Include="Assets\PokeRandom.js" />
      <Compile Include="Assets\Scripts\pokedex.js" />
+     <Compile Include="Assets\Switcher.js" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
@@ -122,7 +123,7 @@
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/144001937/Desktop/CS3/poke_gui/game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/144001937/Desktop/CS3/poke_gui/Poke_GUI/game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>

@@ -50,6 +50,7 @@
      <Compile Include="Assets\NickNamer.js" />
      <Compile Include="Assets\PokeRandom.js" />
      <Compile Include="Assets\Scripts\pokedex.js" />
+     <Compile Include="Assets\Switcher.js" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
